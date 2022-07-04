@@ -26,9 +26,15 @@ The original analysis showed the passing grade percentage for Thomas High School
 
 
 
-o	Add THS percentage pics 
 •	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-o	After removing the ninth graders’ math and reading schools, Thomas High School lost its place in the top five school list. 
+After removing the ninth graders’ math and reading schools, Thomas High School lost its place in the top five school list. 
+
+<img width="990" alt="Thomas HS in top 5 " src="https://user-images.githubusercontent.com/105091538/177108119-81a46ee3-0b96-4d27-8051-b549e1faef25.png">
+
+<img width="1001" alt="THS after adjustment analysis" src="https://user-images.githubusercontent.com/105091538/177108140-d3dec902-2620-4ad8-9a1d-b045ce75785c.png">
+
+
+
 o	Add top schools pics 
 •	How does replacing the ninth-grade scores affect the following:
 o	Math and reading scores by grade
