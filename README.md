@@ -5,7 +5,10 @@ Overview of the school district analysis:
 The object of this analysis was to show a comparison of passing math and reading scores among various high schools. Grades were separated by grade and by school to determine the passing percentages of all. When the data was reviewed with the board board some concerns were raised that scores from Thomas High School were altered. It was requested that the analysis be repeated with data removed in order to compare it to the original data.
 
 
+
+
 Results:
+
 
 •	How is the district summary affected?
 
@@ -27,6 +30,7 @@ The original analysis showed the passing grade percentage for Thomas High School
 
 
 •	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 After removing the ninth graders’ math and reading schools, Thomas High School lost its place in the top five school list. 
 
 <img width="1003" alt="Screen Shot 2022-07-04 at 3 54 37 AM" src="https://user-images.githubusercontent.com/105091538/177108721-641550dd-e19f-4679-bf7d-9f0d645bc99e.png">
@@ -36,7 +40,9 @@ After removing the ninth graders’ math and reading schools, Thomas High School
 
 
 •	How does replacing the ninth-grade scores affect the following:
+
 o	Math and reading scores by grade
+
 Scores for math and reading for 9th graders were removed The math schools for Thomas High School were 83.1% for 10th graders, 83.5% for 11th graders and 83.5% 12th graders. Scores for reading were 84.3% FOR 10TH graders, 83.6% for 11th graders and 83.8% for 12th graders.
 
 
@@ -45,11 +51,15 @@ Scores for math and reading for 9th graders were removed The math schools for Th
 <img width="335" alt="Reading Scores" src="https://user-images.githubusercontent.com/105091538/177109260-6168b199-2fea-45d3-8c9e-11b5848aeb50.png">
 
 o	Scores by school spending
+
 Thomas High School spends $638 per student. The repeat analysis did not change this significantly. 
+
 <img width="1018" alt="School Spending" src="https://user-images.githubusercontent.com/105091538/177109126-11d9f90b-0038-496a-8b3e-9796c2cce99b.png">
 
 o	Scores by school size
+
 Scores by school size die not change significantly. Thomas High School is a medium size school. 
+
 <img width="1004" alt="Spending by size" src="https://user-images.githubusercontent.com/105091538/177109191-29f9edcc-64b9-4150-9610-7b1f672d925a.png">
 
 
@@ -57,6 +67,7 @@ Scores by school size die not change significantly. Thomas High School is a medi
 
 
 Summary:
+
 Overall, the changed scores for Thomas High School had a big effect. The school’s overall passing percentage changed from 91% to 65%. It was originally in the top five for performing schools. It dropped from that list significantly. Passing scores for both reading and math changed for the entire school. The analysis suggests there is a possibility there was some incorrect scores entered either intentionally or unintentionally for 9th graders.
 
 
