@@ -13,12 +13,19 @@ In the original analysis the district summary showed an average reading score of
 
 <img width="997" alt="School District Analysis 1" src="https://user-images.githubusercontent.com/105091538/177107498-8f4c6b53-83d8-4005-9fad-6e9eb9f174c9.png">
 
-
-
+<img width="951" alt="School District Repeat Analysis" src="https://user-images.githubusercontent.com/105091538/177107748-1a34dae4-ed82-4220-8037-e782ba6e464e.png">
 
 
 •	How is the school summary affected?
-o	The original analysis showed the passing grade percentage for Thomas High School as 90.94%. The repeat analysis revealed a passing grade percentage as 65.07%.
+
+The original analysis showed the passing grade percentage for Thomas High School as 90.94%. The repeat analysis revealed a passing grade percentage as 65.07%.
+
+<img width="1004" alt="Thomas High School Original Analysis" src="https://user-images.githubusercontent.com/105091538/177107922-875a04b0-dbe3-4fbe-9a57-697318f415fb.png">
+
+<img width="996" alt="Thomas High School Repeat Analysis" src="https://user-images.githubusercontent.com/105091538/177107869-fdccaf52-c2e1-425e-b54e-544be57b506f.png">
+
+
+
 o	Add THS percentage pics 
 •	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 o	After removing the ninth graders’ math and reading schools, Thomas High School lost its place in the top five school list. 
